@@ -1,0 +1,12 @@
+
+p	java:S116"TRename this field "IPAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¬æñ8Æ„Åì‰/
+J
+java:S1068"-Remove this unused "IPAddress" private field.(Ø¬æñ8Æ„Åì‰/
+€
+java:S1488<"cImmediately return this expression instead of assigning it to the temporary variable "scaledImage".(×—•Ñ8Æ„Åì‰/
+E
+java:S2189²""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ËÈ¥í‰/
+K	java:S108ª")Either remove or fill this block of code.(Ð–øÿÿÿÿ8ËÈ¥í‰/
+V	java:S106º"9Replace this use of System.out or System.err by a logger.(º¡”™8ËÈ¥í‰/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¹ý¥øÿÿÿÿ8Ê®ÉìŠ/

@@ -1,0 +1,26 @@
+
+E	java:S108x")Either remove or fill this block of code.(íº‹ã8•—·ì‰/
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(ˆèÑÑ8•—·ì‰/
+E
+java:S2189Œ""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8•—·ì‰/
+[	java:S106é"9Replace this use of System.out or System.err by a logger.(›´Ïñùÿÿÿÿ8•—·ì‰/
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(÷ºõ ýÿÿÿÿ8•—·ì‰/
+E
+java:S1125^"(Remove the literal "true" boolean value.(²ï­÷8•—·ì‰/
+^	java:S125¿"<This block of commented-out lines of code should be removed.(§®ç•üÿÿÿÿ8•—·ì‰/
+U
+java:S1854G"9Remove this useless assignment to local variable "roots".(ÑÖ´E8•—·ì‰/
+^	java:S125×"<This block of commented-out lines of code should be removed.(ÙÝ¨øûÿÿÿÿ8•—·ì‰/
+F
+java:S1481G"*Remove this unused "roots" local variable.(ÑÖ´E8•—·ì‰/
+p	java:S116"TRename this field "IPAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÞÕø8•—·ì‰/
+V	java:S106è"9Replace this use of System.out or System.err by a logger.(Ø¹·Ã8•—·ì‰/
+B
+java:S3010;"&Remove this assignment of "connected".(µá÷S8•—·ì‰/
+p
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œþž„8•—·ì‰/
+b
+java:S2259ø"DA "NullPointerException" could be thrown; "buffer" is nullable here.(Æ„8•—·ì‰/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ŠÙ”óùÿÿÿÿ8•—·ì‰/
+{
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìöù–üÿÿÿÿ8Ê®ÉìŠ/

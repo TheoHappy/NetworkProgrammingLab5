@@ -1,0 +1,9 @@
+
+c
+java:S1192N"FDefine a constant instead of duplicating this literal "Error" 3 times.(ÎÃ´8ÅéìŠ/
+f
+java:S32524"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8å×Øî‰/
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8å×Øî‰/
+S
+java:S2696\"6Make the enclosing method "static" or remove this set.(ç¨Ì¼8å×Øî‰/
